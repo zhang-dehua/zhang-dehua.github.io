@@ -1,11 +1,11 @@
 # Basic
 title: 张德华
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+subtitle: 个人主页
+description: 欢迎来到我的个人主页
 # 头像里面的标题
 avatarTitle: zhangdehua
 # 头像里面的描述
-avatarDesc: hell0 Github
+avatarDesc: hello Github
 url: "https://zhang-dehua.github.io"
 #url: "https://leopardpan.cn"
 
@@ -15,7 +15,7 @@ enableToc: true
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: leopard
+    # disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
