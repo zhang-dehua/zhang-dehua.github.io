@@ -729,14 +729,14 @@ img::-moz-selection {
     display: inline-block;
     margin-right: 0px;
     padding: 5px 5px 5px 5px;
-    font-size: .6em;
+    font-size: 3.6em;
     text-shadow: none;
     color: #BF1827;
   }
   .navigation__item {
     display: inline-block;
     margin-left: 0px;
-    line-height: 5em; 
+    line-height: 1em; 
   }
 
   .navigation__item a {
