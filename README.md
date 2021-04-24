@@ -7,4 +7,4 @@
 
 ### 感谢   
 
-我的个人主页在[Vno Jekyll](https://github.com/leopardpan/leopardpan.github.io)基础上修改的。  
+我的个人主页在[leopardpan](https://github.com/leopardpan/leopardpan.github.io)基础上修改的。  
