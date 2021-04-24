@@ -553,7 +553,7 @@ img::-moz-selection {
     margin-bottom: .2em; }
 
   .panel-cover__description {
-    margin: 0 30px; }
+    margin: 0 20px; }
 
   .panel-cover__divider {
     width: 50%;
@@ -729,14 +729,14 @@ img::-moz-selection {
     display: inline-block;
     margin-right: 0px;
     padding: 5px 5px 5px 5px;
-    font-size: 1.5em;
+    font-size: 1.2em;
     text-shadow: none;
     color: #BF1827;
   }
   .navigation__item {
     display: inline-block;
     margin-left: 0px;
-    line-height: 1em; 
+    line-height: 0.2em; 
   }
 
   .navigation__item a {
